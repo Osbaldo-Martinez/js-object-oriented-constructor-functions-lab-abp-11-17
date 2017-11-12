@@ -3,3 +3,8 @@ function Scooter(x,y,z){
   this.color = y;
   this.model = z;
 }
+function Driver(n,a,e){
+  this.name = n;
+  this.age = a;
+  this.experience = e;
+}
